@@ -2,11 +2,12 @@
 Şehirlerarası otobüs yolculuklarında,<br>
 Muavinin ön sıralardan başlayıp,<br>
 Sonsuzluğa uzanan su dağıtma macerası...<br>
-  -Cemal Süreya
+  -Cemal Süreya<br>
   
------------------------------------------------
-In the long-distance bus travels,
-Driver's assistant starts from the front,
-Asks to the first person : "Do you wish water?",
-And goes to infinity,
+-----------------------------------------------<br>
+
+In the long-distance bus travels,<br>
+Driver's assistant starts from the front,<br>
+Asks to the first person : "Do you wish water?",<br>
+And goes to infinity,<br>
 By asking to anothers "You? And you? And you?"...
