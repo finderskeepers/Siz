@@ -1,7 +1,7 @@
 # Siz
-Şehirlerarası otobüs yolculuklarında,\n
-Muavinin ön sıralardan başlayıp,\n
-Sonsuzluğa uzanan su dağıtma macerası...\n
+Şehirlerarası otobüs yolculuklarında,<br>
+Muavinin ön sıralardan başlayıp,<br>
+Sonsuzluğa uzanan su dağıtma macerası...<br>
   -Cemal Süreya
   
 -----------------------------------------------
