@@ -10,4 +10,3 @@ Driver's assistant starts from the front,
 Asks to the first person : "Do you wish water?",
 And goes to infinity,
 By asking to anothers "You? And you? And you?"...
-
