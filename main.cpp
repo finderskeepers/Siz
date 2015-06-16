@@ -4,15 +4,11 @@
 using namespace std;
 
 int main(){
+  cout << "Su alir miydiniz ? : ";
+  cin.get();
 
-cout << "Su alir miydiniz ? : ";
+  for(;;)
+    cout << "Siz?\tSiz?" << endl;
 
-cin.get();
-
-for(;;)
-
-cout << "Siz?\tSiz?" << endl;
-
-return 0;
-
+  return 0;
 }
